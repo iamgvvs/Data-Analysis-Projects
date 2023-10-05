@@ -1,4 +1,4 @@
-Sure, here's your text formatted in markdown for a GitHub README file:
+
 
 # Box Office Analysis 🎬
 
